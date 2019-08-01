@@ -28,19 +28,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kitian616/jekyll-TeXt-theme.git"
+    "url": "git+https://github.com/"
   },
   "keywords": [
     "jekyll",
     "jekyll-theme",
     "jekyll-template"
   ],
-  "author": "Tian Qi",
+  "author": "Pixelful",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kitian616/jekyll-TeXt-theme/issues"
+    "url": "https://github.com/pixelful"
   },
-  "homepage": "https://github.com/kitian616/jekyll-TeXt-theme",
+  "homepage": "https://github.com/pixelful",
   "devDependencies": {
     "cross-env": "^5.2.0",
     "eslint": "^5.4.0",
