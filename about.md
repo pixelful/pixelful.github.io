@@ -6,4 +6,4 @@ titles:
 key: page-about
 ---
 
-Helo welcome to Pixelful.
+ welcome to Pixelful.
